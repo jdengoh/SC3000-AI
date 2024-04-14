@@ -6,3 +6,9 @@ Exploring Cartpole Environment using Q-Learning
 
 ### Lab 2
 Learning to Use Prolog as a Logic Programming Tool
+
+
+### Contributors
+* Jden
+* Alan
+* WeiHong
